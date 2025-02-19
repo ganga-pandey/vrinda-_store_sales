@@ -7,4 +7,4 @@
   - Revenue breakdown by region and customer segments  
   - Profitability analysis for better decision-making  
 ## 📸 Report Preview  
-![Sales Report Screenshot](path/to/image.png)  
+![Sales Report Screenshot](https://github.com/ganga-pandey/vrinda-_store_sales/blob/c8d38b6bc15c5144fb2db95ecf5c2ba90cdf0a38/Screenshot%20(28).png)  
